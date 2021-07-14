@@ -64,3 +64,11 @@ def solve (x, y):
 
 
 
+b = solve(startX, startY)
+
+if (b):
+    print(correctPath)
+else:
+    print("Can't be solved")
+
+
